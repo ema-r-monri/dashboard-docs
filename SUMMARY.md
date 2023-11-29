@@ -1,4 +1,7 @@
 # Table of contents
 
 * [Dashboard Instructions](README.md)
-* [Test](test.md)
+* [Merchant Operator](merchantOperator.md)
+* [Merchant Administrator](merchantAdministrator.md)
+* [Group Operator](groupOperator.md)
+* [Group Administrator](groupAdministrator.md)

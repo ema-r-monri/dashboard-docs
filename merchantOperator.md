@@ -1,7 +1,4 @@
-UPUTE ZA DASHBOARD SISTEM
-v2.0.0
-
-KORISNIK TIPA MERCHANT OPERATOR I DASHBOARD AKTIVNOSTI
+UPUTE ZA DASHBOARD v2.0.1. ZA KORISNIKA TIPA MERCHANT OPERATOR 
 
 Korisniku tipa merchant operator nakon prijave na sistem otvara se sljedeća stranica.
 
@@ -10,31 +7,34 @@ Korisniku tipa merchant operator nakon prijave na sistem otvara se sljedeća str
 Ova stranica predstavlja pregled stanja poslovanja merchanta.
 
 Prikazuje:
-Net sales (sumu transakcija),
-Customers (broj korisnika) te
-Transactions (broj transakcija) za odabrani period.
+* Net sales (sumu transakcija),
+* Customers (broj korisnika) te
+* Transactions (broj transakcija) 
+za odabrani period.
 
 Period se bira od strane korisnika, u gornjem desnom uglu.
 Ponuđene opcije su:
-hourly (svakog sata zadnja 24 sata),
-daily (svakog dana zadnjih 31 dana) te
-monthly (svakog mjeseca zadnjih 12 mjeseci).
+* hourly (svakog sata zadnja 24 sata),
+* daily (svakog dana zadnjih 31 dana) te
+* monthly (svakog mjeseca zadnjih 12 mjeseci).
+
+
+//dodatno objasniti transactions i recent links
 
 Nakon klika na NetSales otvara se stranica sa sljedećim izgledom. Graf na slici predstavlja
 
-//dodatno objasniti transactions i recent links
 
 Klikom na Transactions tab u lijevom meniju, otvara se pregled transakcija trgovca.
 
 Slika: Prikaz transakcija
 
 Atributi transakcija koji su prikazani su:
-id (jedinstveni redni broj transakcije),
-type (tip transakcije),
-date (datum trasnakcije),
-masked pan (maskirni broj kartice),
-amount (iznos transakcije u eurima) te
-status (status transakcije).
+* id (jedinstveni redni broj transakcije),
+* type (tip transakcije),
+* date (datum trasnakcije),
+* masked pan (maskirni broj kartice),
+* amount (iznos transakcije u eurima) te
+* status (status transakcije).
 
 Transakcije se mogu pretraživati koristeći search polje iznad tabelarnog prikaza. Polja po kojima se pretraga može
 vršiti su:
@@ -81,11 +81,5 @@ uvijek biti dostupan da ponovno skidanje.
 
 //klik na id reporta sta se dobije?
 //prikaz nekog reporta u csv??
-
-KORISNIK TIPA MERCHANT ADMINISTRATOR
-
-KORISNIK TIPA GROUP OPERATOR
-
-KORISNIK TIPA GROUP ADMINISTRATOR
 
 
