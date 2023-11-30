@@ -1,5 +1,3 @@
-UPUTE ZA DASHBOARD v2.0.1. ZA KORISNIKA TIPA MERCHANT OPERATOR 
-
 Korisniku tipa merchant operator nakon prijave na sistem otvara se sljedeća stranica.
 
 				Slika 1: Izgled sučelja nakon prijave
