@@ -36,7 +36,7 @@ Nakon klika na NetSales generiše se graf predstavljen na slici niže. Graf se p
 <figure><img src=".gitbook/assets/9204AA3F-3934-462E-8405-9324E2ADEE27.jpeg" alt=""><figcaption><p>Slika 5: Prikaz grafa sume transakcija u posljednja 24 sata za trgovca</p></figcaption></figure>
 
 \
-Tačke na grafu prikazuju vrijednosti sume transakcija u zadnjih sat vremena, a kurvatura grafa opisuje trendove i tok sume transakcija za trgovca. Prikaz na tački se dobiva prelaskom miša preko tačke. Na slici niže, prikazana je tačka na samom početku grafa. Ta tačka prikazuje vrijednost sume transakcije u posljednjih sat vremena odnosnood 15:00 do 16:00.
+Tačke na grafu prikazuju vrijednosti sume transakcija u zadnjih sat vremena, a kurvatura grafa opisuje trendove i tok sume transakcija za trgovca. Prikaz na tački se dobiva prelaskom miša preko tačke. Na slici niže, prikazana je tačka na samom početku grafa. Ta tačka prikazuje vrijednost sume transakcije u posljednjih sat vremena odnosno od 15:00 do 16:00.
 
 <figure><img src=".gitbook/assets/A7341244-35BF-4D1E-91B5-49704A6B7736.jpeg" alt=""><figcaption><p>Slika 6: Prikaz izgleda nakon hover-a nad tačkom na grafu</p></figcaption></figure>
 
@@ -57,47 +57,40 @@ Atributi transakcija koji su prikazani su:
 
 <figure><img src=".gitbook/assets/C19F6B70-292B-4D06-9634-0E2DB2195048.jpeg" alt=""><figcaption><p>Slika: Prikaz transakcija</p></figcaption></figure>
 
-Transakcije se mogu pretraživati koristeći search polje iznad tabelarnog prikaza. Polja po kojima se pretraga može vršiti su: id, tid, mid, amount, status, cc\_brand, cc\_issuer, currency, terminal, merhcant, acquirer, amount\_to, date\_from, date\_to, installments, approval\_code, response\_code, merchant\_name, card\_data\_entry, transaction\_type.
-
-<figure><img src=".gitbook/assets/572F9A64-1DB0-42F4-9E7B-AD626DB2D2B3.jpeg" alt=""><figcaption><p>Slika: Prikaz polja za pretragu transakcije</p></figcaption></figure>
-
 Klikom na id trasnakcije, otvara se detaljni prikaz transkcije, kao što je prikazano na slici ispod.
 
 U detaljnom prikazu transakcije prikazane su informacije o: payment details, payment method, additional info, custom attributes i mapa nastanka transakcije.
 
 <div>
 
-<figure><img src=".gitbook/assets/5840A4A2-2BAC-45C1-BF20-04879585CFE6.jpeg" alt=""><figcaption><p>Slika 8.a.: Prikaz detalja transakcije</p></figcaption></figure>
+<figure><img src=".gitbook/assets/5840A4A2-2BAC-45C1-BF20-04879585CFE6.jpeg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/7E630FE3-E6E5-41E6-B241-3A42497DB747.jpeg" alt=""><figcaption><p>Slika 8.b.: Prikaz detalja transakcije</p></figcaption></figure>
+<figure><img src=".gitbook/assets/7E630FE3-E6E5-41E6-B241-3A42497DB747.jpeg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/F78F4EFC-6F34-4D44-A078-3516725ADA99.jpeg" alt=""><figcaption><p>Slika 8.c.: Prikaz detalja transakcije</p></figcaption></figure>
+<figure><img src=".gitbook/assets/F78F4EFC-6F34-4D44-A078-3516725ADA99.jpeg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
+Transakcije se mogu pretraživati koristeći search polje iznad tabelarnog prikaza. Polja po kojima se pretraga može vršiti su: id, tid, mid, amount, status, cc\_brand, cc\_issuer, currency, terminal, merhcant, acquirer, amount\_to, date\_from, date\_to, installments, approval\_code, response\_code, merchant\_name, card\_data\_entry, transaction\_type.
 
+<figure><img src=".gitbook/assets/572F9A64-1DB0-42F4-9E7B-AD626DB2D2B3.jpeg" alt=""><figcaption><p>Slika: Prikaz polja za pretragu transakcije</p></figcaption></figure>
 
 
 
 Moguće je izvršiti i export/izvoz transakcija. U pitanju je CSV izvještaj detaljnih podataka odabranih transakcija za trgovca. Prije izrade exporta, možete odabrati filtere koje želite primijeniti kako biste odabrali željene transakcije u izvještaju.
 
-Primjena filtera se&#x20;
+Primjena filtera se naslanja na pretraživanje transakcija. Izaberete koji dataset želite, i shodno tome, primjenite pretraživanje transakcija po datim filterima. U ovom slučaju filteri su po atributima date\_from i date\_to, te služe da se filtriraju transakcije od 08:00 do 16:00, kao što je prikazano na slici niže.
 
-Nakon primjene filtera, klikom na dugme export u desnom uglu izvještaj se generiše.
+<figure><img src=".gitbook/assets/658637F3-2ADF-4AB5-AD8A-4BB7D7B7A7DB.jpeg" alt=""><figcaption><p>Slika 9: Prikaz primjenjivanja filtera</p></figcaption></figure>
 
-Na slici ispod, prikazana je primjena tri filtera - u našem izvještaju želimo transakcije koje imaju status approved, te pripadaju vremenskom periodu od 16.11.2023 08:00 do 16.11.2023. 12:00.
+Nakon primjene filtera, klikom na dugme export u desnom uglu izvještaj se generiše. \
+Klikom na export dugme, dobijemo pop-up prozorčić gdje se unosi ime izvještaja, kao što je prikazano na slici niže.
 
-//dodati samo sliku filtera
 
-Klikom na export dugme
-
-//dodati sliku export dugmeta
-
-dobijemo pop-up prozorčić gdje se unosi ime izvještaja, kao što je prikazano na slici niže.
 
 Klikom na dugme submit, izvještaj je poslan na generiranje, a na prozoru se prikazuje poruka sa obavještenjem da će poruka o gotovom izvještaju biti dostavljena na e-mail, kao što je prikazano na slici ispod.
 
