@@ -25,3 +25,7 @@ Korisniku tipa group operator nakon prijave na sistem otvara se sljedeća strani
 <figure><img src=".gitbook/assets/Screenshot 2023-12-26 at 16.03.01.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Screenshot 2023-12-26 at 16.20.26.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Screenshot 2023-12-26 at 16.46.14.png" alt=""><figcaption></figcaption></figure>
+
+ostaje o reportima da se kreiraju&#x20;
