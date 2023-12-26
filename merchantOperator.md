@@ -2,6 +2,8 @@
 
 Korisniku tipa merchant operator nakon prijave na sistem otvara se sljedeća stranica.
 
+<figure><img src=".gitbook/assets/68C74067-0768-4AF0-B92F-0F8BD3EC1CFA (1).jpeg" alt=""><figcaption><p>Slika 1: Izgled sučelj nakon prijave </p></figcaption></figure>
+
 <figure><img src=".gitbook/assets/68C74067-0768-4AF0-B92F-0F8BD3EC1CFA.jpeg" alt=""><figcaption><p>Slika 1: Izgled sučeja nakon prijave</p></figcaption></figure>
 
 Ova stranica predstavlja pregled stanja poslovanja trgovca.
@@ -32,6 +34,12 @@ U gornjem dijelu prozora su prikazane tri kartice koje analiziraju stanje poslov
 <figure><img src=".gitbook/assets/F42C043C-86D7-4488-900C-C991D0AE4E27_4_5005_c.jpeg" alt=""><figcaption><p>Slika 4: Prikaz tri stanja poslovanja trgovca</p></figcaption></figure>
 
 Nakon klika na NetSales generiše se graf predstavljen na slici niže. Graf se proseže kroz zadnja 24 sata - jer je odabran period _hourly_. Print scr je generisan u 16:55 sati. Prikaz će se generisati od prvog punog prošlog sata, pa unazad 24 sata. Zbog toga je, u ovom slučaju, prva tačka grafa 16:00, a zadnja 15:00.&#x20;
+
+<figure><img src=".gitbook/assets/A14C2ED6-B739-4F5E-BE61-55E58FAC78F8 (1).jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/2E05EA75-AD23-4C63-96E2-BF33B0DA0CE5.jpeg" alt=""><figcaption></figcaption></figure>
+
+Klikom na Transactions tab u lijevom meniju, otvara se pregled transakcija trgovca.
 
 <figure><img src=".gitbook/assets/9204AA3F-3934-462E-8405-9324E2ADEE27.jpeg" alt=""><figcaption><p>Slika 5: Prikaz grafa sume transakcija u posljednja 24 sata za trgovca</p></figcaption></figure>
 
