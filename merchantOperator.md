@@ -48,7 +48,7 @@ Tačke na grafu prikazuju vrijednosti sume transakcija u zadnjih sat vremena, a 
 
 <figure><img src=".gitbook/assets/A7341244-35BF-4D1E-91B5-49704A6B7736.jpeg" alt=""><figcaption><p>Slika 6: Prikaz izgleda nakon hover-a nad tačkom na grafu</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Slika</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption><p>Slika</p></figcaption></figure>
 
 
 
