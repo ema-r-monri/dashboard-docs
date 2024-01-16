@@ -16,6 +16,13 @@ Korisniku tipa group administrator nakon prijave na sistem otvara se sljedeća s
 
 <figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
+Nakon klika na dugme _Latest transactions_ u gornjem desnom dijelu iznad tabelarnog pregleda transakcija otvara se mapa sa uživo prikazom trerminala i njihovih transkacija.&#x20;
+
+Terminali su predstavljeni krugovima, a broj u krugu predstavlja broj transakcija koji obrađuje u prvaom vremenu dok gledate u mapu. \
+Boja kruga ovisi od intenziteta - broja transakcija.&#x20;
+
+Pravogaonik u gornjem desnom uglu prikazuje dodatne informacije o spomenutim trenutnim transkcijama: ime trgovca gdje je nastala transakcija i vrijeme nastanka transakcije.
+
 <figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
@@ -27,6 +34,8 @@ Korisniku tipa group administrator nakon prijave na sistem otvara se sljedeća s
 <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Nakon klika na dugme Download CSV&#x20;
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
