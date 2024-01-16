@@ -14,6 +14,10 @@ Korisniku tipa group administrator nakon prijave na sistem otvara se sljedeća s
 
 <figure><img src=".gitbook/assets/Screenshot 2023-12-26 at 16.50.06.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
