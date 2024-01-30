@@ -2,9 +2,7 @@
 
 Korisniku tipa merchant operator nakon prijave na sistem otvara se sljedeća stranica.
 
-<figure><img src="../.gitbook/assets/68C74067-0768-4AF0-B92F-0F8BD3EC1CFA%20(1).jpeg" alt=""><figcaption><p>Slika 1: Izgled sučelj nakon prijave </p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/68C74067-0768-4AF0-B92F-0F8BD3EC1CFA.jpeg" alt=""><figcaption><p>Slika 1: Izgled sučeja nakon prijave</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/68C74067-0768-4AF0-B92F-0F8BD3EC1CFA (1).jpeg" alt=""><figcaption><p>Slika 1: Izgled sučelj nakon prijave</p></figcaption></figure>
 
 Ova stranica predstavlja pregled stanja poslovanja trgovca.
 
@@ -25,7 +23,7 @@ U desnoj strani prozora vidimo prikaz broja odobrenih i odbijenih transakcija tr
 
 <figure><img src="../.gitbook/assets/89EA922A-E94B-4CBB-B5B6-21D5A23821B1_4_5005_c.jpeg" alt=""><figcaption><p>Slika 3: Prikaz izračunatih odobrenih i odbijenih transakcija za odabrani period za trgovca</p></figcaption></figure>
 
-U gornjem dijelu prozora su prikazane tri kartice koje analiziraju stanje poslovanja trgovca. U pitanju su sljedeće vrste analize:&#x20;
+U gornjem dijelu prozora su prikazane tri kartice koje analiziraju stanje poslovanja trgovca. U pitanju su sljedeće vrste analize:
 
 * _Net sales_ (sumu transakcija),
 * _Customers_ (broj korisnika) te
@@ -33,9 +31,9 @@ U gornjem dijelu prozora su prikazane tri kartice koje analiziraju stanje poslov
 
 <figure><img src="../.gitbook/assets/F42C043C-86D7-4488-900C-C991D0AE4E27_4_5005_c.jpeg" alt=""><figcaption><p>Slika 4: Prikaz tri stanja poslovanja trgovca</p></figcaption></figure>
 
-Nakon klika na NetSales generiše se graf predstavljen na slici niže. Graf se proseže kroz zadnja 24 sata - jer je odabran period _hourly_. Print scr je generisan u 16:55 sati. Prikaz će se generisati od prvog punog prošlog sata, pa unazad 24 sata. Zbog toga je, u ovom slučaju, prva tačka grafa 16:00, a zadnja 15:00.&#x20;
+Nakon klika na NetSales generiše se graf predstavljen na slici niže. Graf se proseže kroz zadnja 24 sata - jer je odabran period _hourly_. Print scr je generisan u 16:55 sati. Prikaz će se generisati od prvog punog prošlog sata, pa unazad 24 sata. Zbog toga je, u ovom slučaju, prva tačka grafa 16:00, a zadnja 15:00.
 
-<figure><img src="../.gitbook/assets/A14C2ED6-B739-4F5E-BE61-55E58FAC78F8%20(1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/A14C2ED6-B739-4F5E-BE61-55E58FAC78F8 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/2E05EA75-AD23-4C63-96E2-BF33B0DA0CE5.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -48,7 +46,4 @@ Tačke na grafu prikazuju vrijednosti sume transakcija u zadnjih sat vremena, a 
 
 <figure><img src="../.gitbook/assets/A7341244-35BF-4D1E-91B5-49704A6B7736.jpeg" alt=""><figcaption><p>Slika 6: Prikaz izgleda nakon hover-a nad tačkom na grafu</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image%20(19).png" alt=""><figcaption><p>Slika</p></figcaption></figure>
-
-
-
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Slika</p></figcaption></figure>
