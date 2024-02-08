@@ -2,9 +2,9 @@
 
 Korisniku kojem je dodjeljena rola tipa _merchant operator,_ nakon prijave na sistem otvara se sljedeća stranica prikazana na slici niže.
 
-<figure><img src="../.gitbook/assets/68C74067-0768-4AF0-B92F-0F8BD3EC1CFA (1).jpeg" alt=""><figcaption><p>Slika 1: Izgled sučelj nakon prijave</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/68C74067-0768-4AF0-B92F-0F8BD3EC1CFA (1).jpeg" alt=""><figcaption><p>Slika 1: Izgled sučelja nakon prijave</p></figcaption></figure>
 
-Ova stranica predstavlja pregled stanja poslovanja trgovca čiji je  uposlenik ulogovani korisnik.
+Ova stranica predstavlja pregled stanja poslovanja trgovca čiji je uposlenik ulogovani korisnik.
 
 U gornjem desnom uglu nalaze se tri ponuđena perioda, za koje je moguće izračunati i prikazati pregled stanja poslovanja trgovca.
 
@@ -26,33 +26,31 @@ U dijelu prozora ispod spomenutih perioda su prikazane tri kartice koje analizir
 
 <figure><img src="../.gitbook/assets/F42C043C-86D7-4488-900C-C991D0AE4E27_4_5005_c.jpeg" alt=""><figcaption><p>Slika 3: Prikaz tri stanja poslovanja trgovca</p></figcaption></figure>
 
-Koristeći kombinacije tri perioda i tri metrike poslovanja trgovca, korisnik može da napravi 9 kombinacija koje mu pružaju uvid u poslovanje. 
-Za svaki period (dnevni, mjesečni i godišnji) može se izvršiti prikaz sume transakcije, broja korisnika te broja transakcija za taj period. 
-Klikom bilo koje od tih 9 kombinacija, vrši se brza kalkulacija i rezultati bivaju prikazani kroz graf na sredini početnog ekrana. 
-U nastavku će biti analizirana i prikazana svaka od 9 kombinacija.
+Koristeći kombinacije tri perioda i tri metrike poslovanja trgovca, korisnik može da napravi 9 kombinacija koje mu pružaju uvid u poslovanje. Za svaki period (dnevni, mjesečni i godišnji) može se izvršiti prikaz sume transakcije, broja korisnika te broja transakcija za taj period. Klikom bilo koje od tih 9 kombinacija, vrši se brza kalkulacija i rezultati bivaju prikazani kroz graf na sredini početnog ekrana.&#x20;
 
-* Suma transakcija na dnevnom nivou
+U nastavku će biti analizirana i prikazana metrika sume transakcija za sva tri perioda. Preostale dvije metrike se analiziraju na isti način.
 
-Nakon klika na NetSales generiše se graf predstavljen na slici niže. Graf se proseže kroz zadnja 24 sata - jer je odabran period _hourly_. 
-Print scr je generisan u 16:55 sati. Prikaz će se generisati od prvog punog prošlog sata, pa unazad 24 sata. 
-Zbog toga je, u ovom slučaju, prva tačka grafa 16:00, a zadnja 15:00.
+* **Suma transakcija na dnevnom nivou**
 
-//UBACITI SLIKU
+Nakon klika na NetSales generiše se graf predstavljen na slici niže. Graf se proseže kroz zadnja 24 sata - jer je odabran period _hourly_. Print scr je generisan u 15:40  sati. Prikaz će se generisati od prvog punog prošlog sata, pa unazad 24 sata. Zbog toga je, u ovom slučaju, prva tačka grafa 14:00, a zadnja 13:00.
 
-Tačke na grafu prikazuju vrijednosti sume transakcija u zadnjih sat vremena, a kurvatura grafa opisuje trendove i tok sume transakcija za trgovca. Prikaz na tački se dobiva prelaskom miša preko tačke. Na slici niže, prikazana je tačka na samom početku grafa. Ta tačka prikazuje vrijednost sume transakcije u posljednjih sat vremena odnosno od 15:00 do 16:00.
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Slika 4: Prikaz sume transakcija po dnevnom periodu</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/A7341244-35BF-4D1E-91B5-49704A6B7736.jpeg" alt=""><figcaption><p>Slika 6: Prikaz izgleda nakon hover-a nad tačkom na grafu</p></figcaption></figure>
+Tačke na grafu prikazuju vrijednosti sume transakcija u zadnjih sat vremena, a kurvatura grafa opisuje trendove i tok sume transakcija za trgovca.
 
+Prikaz na tački se dobiva prelaskom miša preko tačke. Na slici niže, prikazana je tačka koja predstavlja vrijednost sume transakcija nastalih u sat vremena od 10:00 do 11:00 sati.
 
-* Suma transakcija na mjesečnom nivou
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Slika 5: Prikaz vrijednosti sume transakcije u jednoj tački na grafu</p></figcaption></figure>
+
+* **Suma transakcija na mjesečnom nivou**
 
 <figure><img src="../.gitbook/assets/A14C2ED6-B739-4F5E-BE61-55E58FAC78F8 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-* Suma transakcija na godišnjem nivou
+* **Suma transakcija na godišnjem nivou**
 
 <figure><img src="../.gitbook/assets/2E05EA75-AD23-4C63-96E2-BF33B0DA0CE5.jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/9204AA3F-3934-462E-8405-9324E2ADEE27.jpeg" alt=""><figcaption><p>Slika 5: Prikaz grafa sume transakcija u posljednja 24 sata za trgovca</p></figcaption></figure>
+
 
 U desnoj strani prozora vidimo prikaz broja odobrenih i odbijenih transakcija trgovca, koje su izračunate za prethodno odabrani period - u ovom slučaju _hourly_.
 
