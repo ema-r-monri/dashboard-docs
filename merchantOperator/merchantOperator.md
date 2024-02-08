@@ -1,10 +1,10 @@
 # Merchant Operator
 
-Korisniku tipa merchant operator nakon prijave na sistem otvara se sljedeća stranica.
+Korisniku kojem je dodjeljena rola tipa _merchant operator,_ nakon prijave na sistem otvara se sljedeća stranica prikazana na slici niže.
 
 <figure><img src="../.gitbook/assets/68C74067-0768-4AF0-B92F-0F8BD3EC1CFA (1).jpeg" alt=""><figcaption><p>Slika 1: Izgled sučelj nakon prijave</p></figcaption></figure>
 
-Ova stranica predstavlja pregled stanja poslovanja trgovca.
+Ova stranica predstavlja pregled stanja poslovanja trgovca čiji je  uposlenik ulogovani korisnik.
 
 U gornjem desnom uglu nalaze se tri ponuđena perioda, za koje je moguće izračunati i prikazati pregled stanja poslovanja trgovca.
 
@@ -14,7 +14,7 @@ Period se bira od strane korisnika. Ponuđene opcije su:
 * _daily_ (svakog dana zadnjih 31 dana) te
 * _monthly_ (svakog mjeseca zadnjih 12 mjeseci).
 
-Na slici ispod prikazana su tri perioda. U ovo slučaju odabran je hourly.
+Na slici ispod prikazana su opisana tri perioda. U ovo slučaju odabran je hourly _(označen ljubičastom bojom)_.
 
 <figure><img src="../.gitbook/assets/D9F34BFE-6964-4CF0-BD21-F885FC21498B_4_5005_c.jpeg" alt=""><figcaption><p>Slika 2: Tri ponuđena perioda pregleda stanja</p></figcaption></figure>
 

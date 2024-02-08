@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Dashboard documentation v2.0.1](README.md)
+* [Dashboard korisnički priručnik v1](README.md)
 * [Merchant Operator](merchantOperator/merchantOperator.md)
   * [Transactions](merchantOperator/transactions.md)
   * [Reports](merchantOperator/reports.md)
