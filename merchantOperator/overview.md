@@ -47,7 +47,6 @@ Prikaz na tački se dobiva prelaskom miša preko tačke. Na slici niže, prikaza
 <figure><img src="../.gitbook/assets/2E05EA75-AD23-4C63-96E2-BF33B0DA0CE5.jpeg" alt=""><figcaption></figcaption></figure>
 
 
-
 U desnoj strani prozora vidimo prikaz broja odobrenih i odbijenih transakcija trgovca, koje su izračunate za prethodno odabrani period - u ovom slučaju _hourly_.
 
 <figure><img src="../.gitbook/assets/89EA922A-E94B-4CBB-B5B6-21D5A23821B1_4_5005_c.jpeg" alt=""><figcaption><p>Slika 3: Prikaz izračunatih odobrenih i odbijenih transakcija za odabrani period za trgovca</p></figcaption></figure>
