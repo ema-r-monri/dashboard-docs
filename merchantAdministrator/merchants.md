@@ -1,10 +1,6 @@
----
-description: >-
-  Pregled merchanta vidimo na sljedećoj slici. Merchanti se prikazuju u
-  paginiranom tabelarnom prikazu, a kolone koje su prikazane su:
----
-
 # Merchants
+
+Trgovci se prikazuju u paginiranom tabelarnom prikazu, a kolone koje su prikazane su:
 
 * _id_ (jedinstveni identifikacioni broj trgovca)
 * _name_ (ime trgovca)
@@ -12,6 +8,8 @@ description: >-
 * _address_ (adresa trgovca na kojoj je prijavljen)
 * _city_ (grad u kojem je trgovac prijavljen)
 * _country_ (država trgovca u kojoj je prijavljen)
+
+Pregled trgovaca vidimo na sljedećoj slici.
 
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
@@ -21,7 +19,8 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-Klikom na id trgovca, otvara se detaljni prikaz trgovca. Prikazane su dodatne informacije o lokaciji trgovca, karticnim postavkama te ugovoru trgovca.
+Klikom na id trgovca, otvara se detaljni prikaz trgovca. 
+Prikazane su dodatne informacije o lokaciji trgovca, kartičnim postavkama te ugovoru trgovca.
 
 Detalji trgovca su prikazani na slikama niže.
 
