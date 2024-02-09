@@ -3,6 +3,7 @@
 * [Dashboard korisnički priručnik v1](README.md)
 
 * [Merchant Operator](merchantOperator/merchantOperator.md)
+  * [Overview](merchantOperator/overview.md)
   * [Transactions](merchantOperator/transactions.md)
   * [Reports](merchantOperator/reports.md)
 
