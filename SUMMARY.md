@@ -8,7 +8,7 @@
   * [Reports](merchantOperator/reports.md)
 
 * [Merchant Administrator](merchantAdministrator/merchantAdministrator.md)
-  * [Overview](merchantoperator/overview.md)
+  * [Overview](merchantAdministrator/overview.md)
   * [Transactions](merchantAdministrator/transactions/transactions.md)
     * [Filters](merchantAdministrator/transactions/filters.md)
   * [Reports](merchantAdministrator/reports.md)
