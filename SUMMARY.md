@@ -1,12 +1,10 @@
 # Table of contents
 
 * [Dashboard korisnički priručnik v1](README.md)
-
 * [Merchant Operator](merchantOperator/merchantOperator.md)
   * [Overview](merchantOperator/overview.md)
   * [Transactions](merchantOperator/transactions.md)
   * [Reports](merchantOperator/reports.md)
-
 * [Merchant Administrator](merchantAdministrator/merchantAdministrator.md)
   * [Overview](merchantAdministrator/overview.md)
   * [Transactions](merchantAdministrator/transactions/transactions.md)
@@ -16,11 +14,19 @@
   * [Merchants](merchantAdministrator/merchants.md)
   * [Acquirers](merchantAdministrator/acquirers.md)
   * [Terminals](merchantAdministrator/terminals.md)
-
-
 * [Group Operator](groupOperator/groupOperator.md)
-  * [Reports](groupOperator/reports.md)
-  
+  * [Transakcije](groupoperator/reports/README.md)
+    * [Pregled transakcija](groupoperator/reports/pregled-transakcija/README.md)
+      * [Detalji pojedinačne transakcije](groupoperator/reports/pregled-transakcija/detalji-pojedinacne-transakcije.md)
+      * [Izvoz detalja pojedinačne transakcije](groupoperator/reports/pregled-transakcija/izvoz-detalja-pojedinacne-transakcije.md)
+    * [Pretraga transakcija](groupoperator/reports/pretraga-transakcija/README.md)
+      * [Filteri za pretragu transakcija](groupoperator/reports/pretraga-transakcija/filteri-za-pretragu-transakcija.md)
+  * [Izvještaji](groupoperator/izvjestaji.md)
 * [Group Administrator](groupAdministrator/groupAdministrator.md)
-  * [Merchants](groupAdministrator/merchants.md)
+  * [Trgovci](groupadministrator/merchants/README.md)
+    * [Pregled trgovaca](groupadministrator/merchants/pregled-trgovaca/README.md)
+      * [Detalji pojedinačnog trgovca](groupadministrator/merchants/pregled-trgovaca/detalji-pojedinacnog-trgovca.md)
+      * [Izvoz detaljnih podataka trgovca](groupadministrator/merchants/pregled-trgovaca/izvoz-detaljnih-podataka-trgovca.md)
+    * [Pretraga trgovaca](groupadministrator/merchants/pretraga-trgovaca/README.md)
+      * [Filteri za pretragu trgovca](groupadministrator/merchants/pretraga-trgovaca/filteri-za-pretragu-trgovca.md)
   * [Terminals](groupAdministrator/terminals.md)

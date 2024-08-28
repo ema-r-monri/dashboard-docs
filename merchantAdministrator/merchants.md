@@ -9,9 +9,11 @@ Trgovci se prikazuju u paginiranom tabelarnom prikazu, a kolone koje su prikazan
 * _city_ (grad u kojem je trgovac prijavljen)
 * _country_ (država trgovca u kojoj je prijavljen)
 
-Pregled trgovaca vidimo na sljedećoj slici.
+Pregled trgovaca vidimo na sljedećoj slici. S obzirom da je rola merchant administrator - u pitanju je jedan merchant.
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p><em>Slika: Tabelarni prikaz trgovca</em> </p></figcaption></figure>
+
+
 
 <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
@@ -19,8 +21,7 @@ Pregled trgovaca vidimo na sljedećoj slici.
 
 <figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-Klikom na id trgovca, otvara se detaljni prikaz trgovca. 
-Prikazane su dodatne informacije o lokaciji trgovca, kartičnim postavkama te ugovoru trgovca.
+Klikom na id trgovca, otvara se detaljni prikaz trgovca. Prikazane su dodatne informacije o lokaciji trgovca, kartičnim postavkama te ugovoru trgovca.
 
 Detalji trgovca su prikazani na slikama niže.
 

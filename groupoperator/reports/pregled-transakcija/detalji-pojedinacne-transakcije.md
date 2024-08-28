@@ -1,0 +1,2 @@
+# Detalji pojedinačne transakcije
+

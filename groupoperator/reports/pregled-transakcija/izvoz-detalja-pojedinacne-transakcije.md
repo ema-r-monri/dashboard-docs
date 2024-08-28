@@ -1,0 +1,2 @@
+# Izvoz detalja pojedinačne transakcije
+

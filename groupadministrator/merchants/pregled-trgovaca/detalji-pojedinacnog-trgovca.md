@@ -1,0 +1,2 @@
+# Detalji pojedinačnog trgovca
+
